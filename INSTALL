@@ -1,0 +1,9 @@
+Building JAPANv2
+
+See doc/readme-qt.rst for instructions on building JAPANv2 QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of JAPANv2.
+
+See doc/build-*.txt for instructions on building japanv2d,
+the intended-for-services, no-graphical-interface, reference
+implementation of JAPANv2.
